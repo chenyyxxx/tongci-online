@@ -1,0 +1,12 @@
+{
+  "name": "tongci-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "同词相遇双人互联网联机版",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
